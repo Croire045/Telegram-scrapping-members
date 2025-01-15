@@ -1,0 +1,8 @@
+** 
+Suivez ces étapes pour ajouter des membres dans votre canal/groupe
+
+1) Allez dans ce site pour recuperer votre API_ID et API_HASH: https://my.telegram.org/auth
+
+2) Allez dans les scripts Ajout et Scrapper pour coller votre API_ID et API_HASH
+
+3) assurez vous d'installer la bibliothèque telethon, sys
